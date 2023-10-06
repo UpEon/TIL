@@ -15,11 +15,12 @@
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/github/license/:user/:repo">
+  <img src="https://img.shields.io/python/required-version-toml">
 </div>
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-2496ED?style=for-the-badge&logo=Python&logoColor=#3776AB">
 </div>
 <br />
 <br />
